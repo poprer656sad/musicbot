@@ -1,15 +1,15 @@
-# Bird Bot
-[Support Discord](https://discord.gg/kfAqBKv)<br/><br/>
-Bird Bot is an auto-checkout bot that currently supports Walmart and Best buy. It is intended to be used to purchase Nintendo Switch consoles. More sites will be added in the future.
+# MusicBpt
 
-* Easy to use interface built on PyQt5
-* Waits for items to restock if they are out of stock
-* Optional price checker
-* Lighting fast auto-checkout
+to install, make sure you have:
+-Node.js
+-pip
 
-<p align="center">
-  <img src="https://i.imgur.com/E105F74.png" alt="Bird Bot UI" width="738">
-</p>
-
-## Installation
-[View The Docs Here](https://nateskicks13.gitbook.io/bird-bot/)
+ installed on your computer. an easy way to check if they're working is opening up command prompt and typing "node" and "pip" respectively
+ 
+ afterwards, clone this repository into one folder
+ cd to it
+ and type
+ "pip install -r requirements.txt --user"
+ 
+ once completed, you can run it via
+ "python app.py"
