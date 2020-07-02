@@ -1,4 +1,4 @@
-# MusicBpt
+# MusicBot
 
 to install, make sure you have:
 -Node.js
